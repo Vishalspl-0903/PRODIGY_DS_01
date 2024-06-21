@@ -6,14 +6,12 @@ This repository contains an analysis of the Indian Premier League (IPL) matches 
 
 ## Files in this Repository
 
-- `ipl_analysis.py`: Python script that performs the analysis and generates visualizations.
+- `Task_1.py`: Python script that performs the analysis and generates visualizations.
+- `datasets.zip`: Compressed ZIP file containing the datasets.
 
 ## Datasets
 
-Due to GitHub's file size limitations, the datasets are hosted externally. You can download them using the following links:
-
-- [matches.csv](https://drive.google.com/uc?export=download&id=1LKGFzEz7IszlX4Agl5xblEEX7YyktALP): Dataset containing information about IPL matches.
-- [deliveries.csv](https://drive.google.com/uc?export=download&id=1ZsxJl0QZfghKB7GxIEXnIYTHSmA7_MWQ): Dataset containing information about deliveries in IPL matches.
+The datasets are provided as a compressed ZIP file. It can downloaded using the zip file provided.
 
 ## Getting Started
 
